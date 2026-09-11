@@ -19,7 +19,6 @@ jumlah_semua = sum(jumlah)
 
 target_tercapai = total_seluruh > 20000 and jumlah_semua > 10
 
-print("Subtotal Pendapatan:", subtotal_pendapatan)
 print("Subtotal Kopisusu:", sub_KopiSusu)
 print("Subtotal MatchaLatte:", sub_MatchaLatte)
 print("Subtotal Americano:", sub_Americano)
